@@ -1,0 +1,84 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "g9Utt8DaDsSLtfMqdCgo8",
+      "name": "",
+      "value": "#e14747"
+    },
+    {
+      "id": "CkcrTzwxk8YQnI2bq9s91",
+      "name": "",
+      "value": "#684ad3"
+    },
+    {
+      "id": "HgOO5j_Ooerd3wMMuaQQB",
+      "name": "",
+      "value": "#2eb25a"
+    },
+    {
+      "id": "L_UeW9jxzzMe1PDJlbBtk",
+      "name": "",
+      "value": "#b3b536"
+    },
+    {
+      "id": "WI4eg4-27AbtbzAro_33s",
+      "name": "",
+      "value": "#bd882e"
+    },
+    {
+      "id": "BfAKbRiKM1z55v1IiEXj3",
+      "name": "",
+      "value": "#5dc5df"
+    },
+    {
+      "id": "ikJ66T5WlpWE12PpFIBqu",
+      "name": "",
+      "value": "#4954f3"
+    },
+    {
+      "id": "Y7a517S0Ec5GHDtDLLJCS",
+      "name": "",
+      "value": "#e15ee4"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Cyber Pentest",
+      "color": "g9Utt8DaDsSLtfMqdCgo8"
+    },
+    {
+      "path": "Cyber Pentest/Phishing",
+      "color": "g9Utt8DaDsSLtfMqdCgo8"
+    },
+    {
+      "path": "Cyber Pentest/Phishing/Basics.md",
+      "color": "g9Utt8DaDsSLtfMqdCgo8"
+    },
+    {
+      "path": "Linux",
+      "color": "L_UeW9jxzzMe1PDJlbBtk"
+    },
+    {
+      "path": "Platforms CTF",
+      "color": "HgOO5j_Ooerd3wMMuaQQB"
+    },
+    {
+      "path": "Windows",
+      "color": "BfAKbRiKM1z55v1IiEXj3"
+    },
+    {
+      "path": "OSINT",
+      "color": "WI4eg4-27AbtbzAro_33s"
+    },
+    {
+      "path": "Network",
+      "color": "Y7a517S0Ec5GHDtDLLJCS"
+    },
+    {
+      "path": "SOC Analyst",
+      "color": "ikJ66T5WlpWE12PpFIBqu"
+    }
+  ]
+}
